@@ -8,7 +8,7 @@
 
 **Peloton Tag:** _#PelotonToGarmin_
 
-Sync your Pelooton workouts to Garmin.
+Sync your Peloton workouts to Garmin.
 
 * Fetch latest workouts from Peloton
   * Bike, Tread, Rower, Meditation, Strength, Outdoor, and more
